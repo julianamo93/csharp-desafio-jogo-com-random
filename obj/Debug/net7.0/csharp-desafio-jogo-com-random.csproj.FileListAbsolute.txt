@@ -1,0 +1,14 @@
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-desafio-jogo-com-random\bin\Debug\net7.0\csharp-desafio-jogo-com-random.exe
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-desafio-jogo-com-random\bin\Debug\net7.0\csharp-desafio-jogo-com-random.deps.json
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-desafio-jogo-com-random\bin\Debug\net7.0\csharp-desafio-jogo-com-random.runtimeconfig.json
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-desafio-jogo-com-random\bin\Debug\net7.0\csharp-desafio-jogo-com-random.dll
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-desafio-jogo-com-random\bin\Debug\net7.0\csharp-desafio-jogo-com-random.pdb
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-desafio-jogo-com-random\obj\Debug\net7.0\csharp-desafio-jogo-com-random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-desafio-jogo-com-random\obj\Debug\net7.0\csharp-desafio-jogo-com-random.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-desafio-jogo-com-random\obj\Debug\net7.0\csharp-desafio-jogo-com-random.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-desafio-jogo-com-random\obj\Debug\net7.0\csharp-desafio-jogo-com-random.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-desafio-jogo-com-random\obj\Debug\net7.0\csharp-desafio-jogo-com-random.dll
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-desafio-jogo-com-random\obj\Debug\net7.0\refint\csharp-desafio-jogo-com-random.dll
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-desafio-jogo-com-random\obj\Debug\net7.0\csharp-desafio-jogo-com-random.pdb
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-desafio-jogo-com-random\obj\Debug\net7.0\csharp-desafio-jogo-com-random.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-desafio-jogo-com-random\obj\Debug\net7.0\ref\csharp-desafio-jogo-com-random.dll
